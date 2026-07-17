@@ -13,6 +13,17 @@ This project analyzes sales and order cancellation data for **Umico**, an e-comm
   - **Heatmap** — to spot cancellation concentration by day of week and category.
   - **Radial Chart** — to visualize proportional contribution of each cancellation type.
   - **Sankey Diagram** — to trace the flow of orders from placement through to cancellation or completion.
+ 
+
+## 🖼️ Dashboard Screenshots
+### 1. Introduction Page
+![Introduction Page](intro.png.png)
+
+### 2. Main Dashboard
+![Main Dashboard](main_dashboard.png.png)
+
+### 3. Problem Analysis
+![Problem Analysis](problem_analysis.png.png)
 
 ## 💡 Business Impact
 
